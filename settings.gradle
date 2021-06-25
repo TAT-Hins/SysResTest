@@ -1,0 +1,2 @@
+include ':sysrestestserver', ':sysrestestclient'
+rootProject.name='SysResTestClient'
